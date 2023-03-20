@@ -1,0 +1,17 @@
+body {
+    background-color: violet;
+}
+
+
+div {
+    border: solid black;
+    margin-left: 400px;
+    margin-right: 400px;
+    padding: 15px;
+    background-color: white;
+}
+
+.foto {
+    position: absolute;
+    right: 425px;
+}
